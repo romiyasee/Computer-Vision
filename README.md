@@ -3,10 +3,4 @@
 #### OpenCV
 
 #### Images
-
-<img src
-jk
-usidgui
-agahkjxjkzb
-wkldjkshfsiowiohd
-a;sfjo
+<img src="Screenshot (62).png" width="600px">
