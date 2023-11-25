@@ -5,7 +5,6 @@ import cvzone
 kernel = np.ones((3,3),dtype='uint8')
 input = cv.VideoCapture('bahan.mp4')
 detektor = cv.createBackgroundSubtractorMOG2()
-sjdslkdjksdskadnkshdksjlejfelfdkfndjf
 
 while True:
     _,video = input.read()
