@@ -5,7 +5,7 @@ import cvzone
 kernel = np.ones((3,3),dtype='uint8')
 input = cv.VideoCapture('bahan.mp4')
 detektor = cv.createBackgroundSubtractorMOG2()
-
+sjdslkdj
 
 while True:
     _,video = input.read()
@@ -30,4 +30,3 @@ while True:
     x = cv.waitKey(20)
     if x == 27:
         break
-
